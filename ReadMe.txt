@@ -29,5 +29,4 @@ Unzip the file Models.zip into Documents -> Max 8 -> Packages -> nn_tilde -> ext
 
 Now the patch should be all set to run.
 
-For help reach out to chris.lock.music@gmail.com
-
+For technical help with the patch and to download the trained model reach out to chris.lock.music@gmail.com
